@@ -1,0 +1,22 @@
+{
+  "tickets": [
+    {
+      "id": "0bc39861-5fe2-42c9-bd8f-f7366f31620a",
+      "equipament": "Computer",
+      "description": "computer does not turn on",
+      "user_name": "Lucas Pinto",
+      "status": "closed",
+      "created_at": "2024-11-22T16:01:10.936Z",
+      "updated_at": "2024-11-22T16:01:10.936Z"
+    },
+    {
+      "id": "de42fe46-76e4-44c2-9145-75b1f0e5f179",
+      "equipament": "Laptop",
+      "description": "computer does not turn on",
+      "user_name": "Stefane",
+      "status": "open",
+      "created_at": "2024-11-22T16:01:20.352Z",
+      "updated_at": "2024-11-22T16:01:20.352Z"
+    }
+  ]
+}
