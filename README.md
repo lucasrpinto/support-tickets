@@ -68,3 +68,4 @@ Api para controle de tickets, desenvolvida em node, sem dependencias, utilizando
 #### Linguagem Utilizada
 
 ![Node.js](https://img.shields.io/badge/node.js-v23.2.0-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
