@@ -11,12 +11,32 @@
     },
     {
       "id": "de42fe46-76e4-44c2-9145-75b1f0e5f179",
-      "equipament": "Laptop",
+      "equipament": "Tablet",
       "description": "computer does not turn on",
       "user_name": "Stefane",
-      "status": "open",
+      "status": "closed",
       "created_at": "2024-11-22T16:01:20.352Z",
-      "updated_at": "2024-11-22T16:01:20.352Z"
+      "updated_at": "2024-11-25T12:49:38.833Z"
+    },
+    {
+      "id": "de1d08c9-deaf-48c5-b028-31bb0e8ff567",
+      "equipament": "Monitor",
+      "description": "Monitor is not showing video",
+      "user_name": "Felipe",
+      "status": "closed",
+      "created_at": "2024-11-25T13:11:50.648Z",
+      "updated_at": "2024-11-25T13:11:50.648Z",
+      "solution": "replaced power cable"
+    },
+    {
+      "id": "ca5119f4-587e-4711-94da-55955c27f320",
+      "equipament": "Computer",
+      "description": "Blue screen when turning on PC",
+      "user_name": "Lucas",
+      "status": "closed",
+      "created_at": "2024-11-25T13:21:13.772Z",
+      "updated_at": "2024-11-25T13:21:13.772Z",
+      "solution": "ram memory swap"
     }
   ]
 }
